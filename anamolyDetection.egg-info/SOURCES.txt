@@ -1,0 +1,11 @@
+setup.py
+anamolyDetection/__init__.py
+anamolyDetection/anamoly_detection.py
+anamolyDetection.egg-info/PKG-INFO
+anamolyDetection.egg-info/SOURCES.txt
+anamolyDetection.egg-info/dependency_links.txt
+anamolyDetection.egg-info/requires.txt
+anamolyDetection.egg-info/top_level.txt
+test/test.py
+test/test_case.py
+test/test_o.py
